@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images\Screenshot-Order-summary-card.png)
+![](./images/Screenshot-Order-summary-card.png)
 
 ### Links
 
